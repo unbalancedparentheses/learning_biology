@@ -167,7 +167,7 @@ How biotech companies actually work. What most technical founders underestimate.
 - [a16z Bio Fund](https://a16z.com/bio-health/) - Thesis and portfolio.
 - [Flagship Pioneering](https://www.flagshippioneering.com/) - Created Moderna. Study their venture creation model.
 - [Arch Venture Partners](https://www.archventure.com/) - Major biotech VC.
-- Platform companies (Recursion, Ginkgo, Insitro) vs pipeline companies (traditional pharma). Understand the tradeoffs.
+- [Platform vs Pipeline companies](https://a16z.com/bio-and-health-newsletter/) - Platform (Recursion, Ginkgo, Insitro) vs pipeline (traditional pharma). Understand the tradeoffs.
 
 ---
 
@@ -248,16 +248,16 @@ At this stage, resources matter less than environment and practice. But these he
 - **[Benchling](https://www.benchling.com/)** - R&D cloud for biotech. Software company in biotech.
 
 ### People to Follow
-- **George Church** - Synthetic biology pioneer, Harvard. Prolific company creator.
-- **Jennifer Doudna** - CRISPR co-inventor, Nobel laureate.
-- **Feng Zhang** - CRISPR applications, Broad Institute.
-- **Daphne Koller** - CEO of Insitro. Stanford CS → biology.
-- **Vijay Pande** - a16z Bio GP. The archetype of engineer-turned-bio-investor.
-- **Patrick Collison** - Stripe CEO, Arc Institute co-founder.
-- **Drew Endy** - Stanford. Synthetic biology, BioBricks, open-source biology.
-- **David Baker** - UW. Protein design pioneer. Rosetta, RFdiffusion.
-- **Noubar Afeyan** - Flagship Pioneering founder. Created Moderna.
-- **Laura Deming** - Longevity Fund. Anti-aging research → VC.
+- **[George Church](https://arep.med.harvard.edu/gmc/)** - Synthetic biology pioneer, Harvard. Prolific company creator.
+- **[Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna)** - CRISPR co-inventor, Nobel laureate.
+- **[Feng Zhang](https://zlab.bio/)** - CRISPR applications, Broad Institute.
+- **[Daphne Koller](https://en.wikipedia.org/wiki/Daphne_Koller)** - CEO of Insitro. Stanford CS → biology.
+- **[Vijay Pande](https://en.wikipedia.org/wiki/Vijay_Pande)** - a16z Bio GP. The archetype of engineer-turned-bio-investor.
+- **[Patrick Collison](https://patrickcollison.com/)** - Stripe CEO, Arc Institute co-founder.
+- **[Drew Endy](https://en.wikipedia.org/wiki/Drew_Endy)** - Stanford. Synthetic biology, BioBricks, open-source biology.
+- **[David Baker](https://en.wikipedia.org/wiki/David_Baker_(biochemist))** - UW. Protein design pioneer. Rosetta, RFdiffusion. Nobel laureate 2024.
+- **[Noubar Afeyan](https://en.wikipedia.org/wiki/Noubar_Afeyan)** - Flagship Pioneering founder. Created Moderna.
+- **[Laura Deming](https://www.ldeming.com/)** - Longevity Fund. Anti-aging research → VC.
 
 ## Podcasts & Newsletters
 
